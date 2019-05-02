@@ -5,6 +5,7 @@
 #include <vector>
 #include <utility>
 #include <time.h>
+#include <string>
 #include <algorithm>
 #include <conio.h>
 
@@ -178,6 +179,12 @@ void draw()
 	glColor3f(color3, color2, color1);
 	DrawLineaPunteada(pc1, PB[id]);
 	DrawLineaPunteada(PB[id], pc2);
+
+	glColor3f(0, 0, 0);
+	for (char letra = 'A'; letra < 'E'; letra++) {
+		glRasterPos2i(PC[letra - 'A'].first + 10, PC[letra - 'A'].second + 10);
+		glutBitmapCharacter(GLUT_BITMAP_HELVETICA_10, letra);
+	}
 	glutSwapBuffers();
 
 }
@@ -263,7 +270,7 @@ int main() {
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 	glutInitWindowSize(640, 480);
 	glutInitWindowPosition(0, 0);
-	glutCreateWindow("Bezier Curves");
+	glutCreateWindow("Bezier Curves Animation");
 	init();
 	glutDisplayFunc(draw);
 	glutPostRedisplay();
