@@ -263,7 +263,7 @@ int main() {
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 	glutInitWindowSize(640, 480);
 	glutInitWindowPosition(0, 0);
-	glutCreateWindow("Trabajo Parcial");
+	glutCreateWindow("Bezier Curves");
 	init();
 	glutDisplayFunc(draw);
 	glutPostRedisplay();
