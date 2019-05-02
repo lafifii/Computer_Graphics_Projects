@@ -2,7 +2,7 @@
 Bezier Curves animation using 4 movable control points in OpenGL 
 
 A Bézier curve is a parametric curve used in computer graphics and related fields.[1] The curve, which is related to the Bernstein polynomial, is named after Pierre Bézier, who used it in the 1960s for designing curves for the bodywork of Renault cars.[2] Other uses include the design of computer fonts and animation. Bézier curves can be combined to form a Bézier spline, or generalized to higher dimensions to form Bézier surfaces. 
-![alt text](https://imgur.com/a/ER6RHYU)
+![alt text](https://github.com/lafifii/Bezier-Curves/blob/master/BezierFormula.PNG)
 
 Screenshots of program:
 ![alt text](https://github.com/lafifii/Bezier-Curves/blob/master/Bezier4.PNG)
