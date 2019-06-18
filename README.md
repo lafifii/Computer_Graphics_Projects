@@ -14,11 +14,14 @@ A Bézier curve is a parametric curve used in computer graphics and related fiel
 Some Examples:
 <p align="center">
    <img width="429" height="359" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier1.PNG">
-   
+</p>   
+<p align="center">
    <img width="429" height="359" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier2.PNG">
-   
+</p>
+<p align="center">
    <img width="429" height="359" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier3.PNG">
-   
+</p>
+<p align="center">
    <img width="429" height="359" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier4.PNG">
 </p>
 
