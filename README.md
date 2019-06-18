@@ -8,8 +8,7 @@ A Bézier curve is a parametric curve used in computer graphics and related fiel
 </p>
 
 <p align="center">
-   <a href="https://imgflip.com/gif/33pvma"><img src="https://i.imgflip.com/33pvma.gif"/></a>
-
+  <a href="https://imgflip.com/gif/33pvma"><img src="https://i.imgflip.com/33pvma.gif" title="made at imgflip.com"/></a>
 </p>
 
 *In order to run .exe it is necessary to download glut32.dll in the same folder in which .exe is*
