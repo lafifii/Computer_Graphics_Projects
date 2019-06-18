@@ -5,7 +5,6 @@ A Bézier curve is a parametric curve used in computer graphics and related fiel
 
 <p align="center">
    <img width="329" height="199" src="https://github.com/lafifii/Bezier-Curves/blob/master/BezierFormula.png">
-<p align="center">
    <a href="https://imgflip.com/gif/33pvma"><img src="https://i.imgflip.com/33pvma.gif" title="made at imgflip.com"/></a>
 </p>
 <p align="center">
