@@ -13,10 +13,10 @@ A Bézier curve is a parametric curve used in computer graphics and related fiel
 
 Some Examples:
 <p align="center">
-   <img width="429" height="259" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier1.PNG">
-   <img width="429" height="259" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier2.PNG">
-   <img width="429" height="259" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier3.PNG">
-   <img width="429" height="259" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier4.PNG">
+   <img width="429" height="359" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier1.PNG">
+   <img width="429" height="359" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier2.PNG">
+   <img width="429" height="359" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier3.PNG">
+   <img width="429" height="359" src="https://github.com/lafifii/Bezier_Curves/blob/master/Bezier4.PNG">
 </p>
 
 *In order to run .exe it is necessary to download glut32.dll in the same folder in which .exe is*
