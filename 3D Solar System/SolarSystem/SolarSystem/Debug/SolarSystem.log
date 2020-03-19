@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\Fiorella\Documents\CG\SolarSystem\SolarSystem\main.cpp(65): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Fiorella\Documents\CG\SolarSystem\SolarSystem\main.cpp(85): warning C4838: la conversión de 'int' en 'GLfloat' requiere una conversión de restricción
-C:\Users\Fiorella\Documents\CG\SolarSystem\SolarSystem\main.cpp(115): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Fiorella\Documents\CG\SolarSystem\SolarSystem\main.cpp(124): warning C4018: '<': no coinciden signed/unsigned
-  SolarSystem.vcxproj -> C:\Users\Fiorella\Documents\CG\SolarSystem\Debug\SolarSystem.exe
