@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\Fiorella\Documents\Computacion_Grafica\Trabajo_Parcial\Project1\Source.cpp(103): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Fiorella\Documents\Computacion_Grafica\Trabajo_Parcial\Project1\Source.cpp(147): warning C4018: '<': no coinciden signed/unsigned
-C:\Users\Fiorella\Documents\Computacion_Grafica\Trabajo_Parcial\Project1\Source.cpp(209): warning C4018: '>=': no coinciden signed/unsigned
-  Project1.vcxproj -> C:\Users\Fiorella\Documents\Computacion_Grafica\Trabajo_Parcial\Debug\Project1.exe
